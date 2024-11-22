@@ -1,4 +1,4 @@
-<img width="379" alt="Screenshot 2024-11-22 at 2 17 32 PM" src="https://github.com/user-attachments/assets/21aa3e31-ae1a-4cd1-b97c-f2f9a82e9da2"># Top-Up Management App
+# Top-Up Management App
 
 This Flutter app allows users to efficiently manage their top-up beneficiaries, explore available top-up options, and execute top-up transactions for their UAE phone numbers. It implements a clean architecture, state management using BLoC, and adheres to best practices in code quality and UI/UX design.
 
