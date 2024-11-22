@@ -41,11 +41,15 @@ lib/ ├── core/ │ ├── utils/ │ │ ├── app_colors.dart # Ce
    cd top-up-management
 
 2. Install dependencies:
+   ```bash
    flutter pub get
-3. Run the app:
+4. Run the app:
+   ```bash
    flutter run
-4. To run the tests:
+6. To run the tests:
+   ```bash
    flutter test
+   
 Unit and Widget Tests
 
     This project includes unit and widget tests to ensure robust functionality and maintainability. The test coverage is focused on:
