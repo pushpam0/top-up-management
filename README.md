@@ -37,7 +37,7 @@ lib/ ├── core/ │ ├── utils/ │ │ ├── app_colors.dart # Ce
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/top-up-management.git
+   git clone https://github.com/pushpam0/top-up-management.git
    cd top-up-management
 
 2. Install dependencies:
